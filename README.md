@@ -6,6 +6,11 @@
 * [문자 통계 프로그램](2017-java/string-edit.md)
 * [숫자 야구 게임](2017-java/baseball.md)
 
+#### 평가 기준
+* 위 두 문제를 모두 구현한 후 제출해야 한다.
+* [문자 통계 프로그램](2017-java/string-edit.md)의 필수 문제 1, 2번은 반드시 구현해야 하며, 선택 문제 3번을 구현할 경우 추가 점수를 부여한다.
+* 선착순으로 빨리 제출하는 것보다 요구사항을 만족하는 프로그램을 구현하는 더 집중했으면 한다.
+
 #### 제출 방법
-* [GitHub](https://github.com)에 구현한 코드를 올린다.
-* 마감 전까지 yoda@codesquad.kr 이메일로 github 주소를 공유한다.
+* [GitHub](https://github.com)에 구현한 코드를 올린다. 두 문제를 같은 저장소 또는 두 개의 저장소에 나누어 구현해도 된다.
+* 마감 전까지 [자바 백엔드 화이트 레벨](https://docs.google.com/forms/d/e/1FAIpQLSf80_FA_duYvzAb5GmrDXTqQPMU_xDiDCR90tJ_41oiqEgplg/viewform)에 접수하면서 같이 제출한다.
